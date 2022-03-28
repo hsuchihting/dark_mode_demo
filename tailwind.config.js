@@ -1,7 +1,7 @@
 module.exports = {
   mode: "jit",
-  darkMode: "class",
-  content: ["./**/*.html", "./src/**/*.css", "./js/**/*.js"], //寫在這裡
+  darkMode: "class", //寫在這裡
+  content: ["./**/*.html", "./src/**/*.css", "./js/**/*.js"], 
   theme: {
     extend: {},
   },
